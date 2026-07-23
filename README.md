@@ -12,6 +12,7 @@ HTML/CSS project by Sahil (IGNOU BCA 1st year).
 ## Updates
 - Hover animation on video cards (scale + shadow)
 - Cursor fix (I-beam removed on text)
+- Whole card clickable — redirects to YouTube video
 - Responsive breakpoints
 
 ## Live
